@@ -1,0 +1,9 @@
+cloudflared.exe
+*.zip
+run_server.bat
+.DS_Store
+Thumbs.db
+data/*
+!data/.gitkeep
+!data/.htaccess
+render_service.json
